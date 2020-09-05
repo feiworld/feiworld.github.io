@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/feiworld/feiworld.github.io.gitwangfei.site</id>
     <title>Fei&apos;s Landscape Studio 渐筑</title>
-    <updated>2020-09-05T13:00:42.358Z</updated>
+    <updated>2020-09-05T13:05:15.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/feiworld/feiworld.github.io.gitwangfei.site"/>
     <link rel="self" href="https://github.com/feiworld/feiworld.github.io.gitwangfei.site/atom.xml"/>
@@ -41,8 +41,7 @@
         <link href="https://github.com/feiworld/feiworld.github.io.gitwangfei.site/post/如果规划能换个色系就好了/">
         </link>
         <updated>2020-09-01T15:31:52.000Z</updated>
-        <content type="html"><![CDATA[<p>(https://github.com/feiworld/feiworld.github.io.gitwangfei.site/post-images/1599300911235.jpg)<br>
-如果规划能换个色系就好了。</p>
+        <content type="html"><![CDATA[<p>如果规划能换个色系就好了。</p>
 ]]></content>
     </entry>
 </feed>
