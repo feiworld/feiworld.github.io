@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feiworld.github.io</id>
     <title>Fei&apos;s Landscape Studio 渐筑 </title>
-    <updated>2020-09-20T14:41:12.784Z</updated>
+    <updated>2020-11-15T08:15:37.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feiworld.github.io"/>
     <link rel="self" href="https://feiworld.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://feiworld.github.io/images/avatar.png</logo>
     <icon>https://feiworld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Fei&apos;s Landscape Studio 渐筑 </rights>
+    <entry>
+        <title type="html"><![CDATA[新江南]]></title>
+        <id>https://feiworld.github.io/post/xin-jiang-nan/</id>
+        <link href="https://feiworld.github.io/post/xin-jiang-nan/">
+        </link>
+        <updated>2020-11-15T08:02:11.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://feiworld.github.io/post-images/1605427965356.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605427977709.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605427986780.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605427993126.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605428002520.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605428007400.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605428013046.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605428030226.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605428039408.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605428048047.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1605428080814.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LUAN]]></title>
         <id>https://feiworld.github.io/post/luan/</id>
