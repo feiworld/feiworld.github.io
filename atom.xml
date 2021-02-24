@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feiworld.github.io</id>
     <title>Fei&apos;s Landscape Studio 渐筑 </title>
-    <updated>2021-02-24T15:30:48.135Z</updated>
+    <updated>2021-02-24T15:33:35.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feiworld.github.io"/>
     <link rel="self" href="https://feiworld.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://feiworld.github.io/images/avatar.png</logo>
     <icon>https://feiworld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Fei&apos;s Landscape Studio 渐筑 </rights>
+    <entry>
+        <title type="html"><![CDATA[空间重组]]></title>
+        <id>https://feiworld.github.io/post/kong-jian-chong-zu/</id>
+        <link href="https://feiworld.github.io/post/kong-jian-chong-zu/">
+        </link>
+        <updated>2021-02-24T15:32:44.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://feiworld.github.io/post-images/1614180784236.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[传统架构下的共享单车停车区域初探]]></title>
         <id>https://feiworld.github.io/post/chuan-tong-jia-gou-xia-de-gong-xiang-dan-che-ting-che-qu-yu-chu-tan/</id>
@@ -342,23 +351,6 @@
 想象一个人在树林雪地中走着，两个人？三个人？会是什么样的故事。<br>
 由于雪的缘故，即使没有灯光，雪的反射让场地的夜晚更加具有安全感。</p>
 <p>该概念，我是想着营造一个由1.5m漫步道构成的一个“回”字形的矩阵空间，树阵是它的大基调，凸起的地形让这个回型空间充满神秘感，这边的我看不到对面的她，但是我走着走着，画面就会出现，故事就会产生，这可能是邂逅的故事，也可能是离别的故事。不过，我更希望是个邂逅的故事，所以它是一个“回”字，所以它是1.5m的步行道。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[01]]></title>
-        <id>https://feiworld.github.io/post/01/</id>
-        <link href="https://feiworld.github.io/post/01/">
-        </link>
-        <updated>2021-01-16T09:36:15.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://feiworld.github.io/post-images/1610789817668.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610789833679.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610789843170.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610790934546.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610789883897.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610789889834.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610789896574.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610789901982.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610789911524.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
