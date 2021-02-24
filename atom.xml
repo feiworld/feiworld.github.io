@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feiworld.github.io</id>
     <title>Fei&apos;s Landscape Studio 渐筑 </title>
-    <updated>2021-02-24T15:26:03.081Z</updated>
+    <updated>2021-02-24T15:27:27.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feiworld.github.io"/>
     <link rel="self" href="https://feiworld.github.io/atom.xml"/>
@@ -10,6 +10,48 @@
     <logo>https://feiworld.github.io/images/avatar.png</logo>
     <icon>https://feiworld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Fei&apos;s Landscape Studio 渐筑 </rights>
+    <entry>
+        <title type="html"><![CDATA[断章-其一]]></title>
+        <id>https://feiworld.github.io/post/duan-zhang-qi-yi/</id>
+        <link href="https://feiworld.github.io/post/duan-zhang-qi-yi/">
+        </link>
+        <updated>2021-02-24T15:26:36.000Z</updated>
+        <content type="html"><![CDATA[<p>他总是在那坐着，<br>
+泥砖墙外，酸枣树旁。<br>
+背后忽明忽灭的灯火<br>
+也习惯了他那湿漉漉的观望。<br>
+究竟是什么锁住了他清澈的眼睛？<br>
+起风了，狗的一声喷嚏<br>
+提醒他该回屋添衣了。<br>
+笔直的阳光投射出他的影子，<br>
+虚妄，孤独，却在期待着，<br>
+期待着什么。<br>
+不是漂亮的衣服，不是稀奇的玩具。</p>
+<p>山下的河一天天地流，<br>
+一去不复返<br>
+就像曾经在这打枣的某个身影。<br>
+鸟儿从远处飞来，<br>
+一路彷徨，一声呢喃，<br>
+他望出了鸟儿眼眸中闪烁的<br>
+不可描述的忧伤。</p>
+<p>炙热的阳光下<br>
+他在田野里摔倒然后爬起来，<br>
+稚嫩的双手剥落了曾经的红润，<br>
+刻上了大地的纹理。<br>
+黝黑的面孔<br>
+好似从泥潭里钻出来。<br>
+天空的泪水变成<br>
+深情的河流，依旧在<br>
+那潮湿发霉的被褥里做着温暖的梦。</p>
+<p>他想——<br>
+秋天的风，能让漫山红遍，<br>
+我可以将它买下，<br>
+寄往河流的那头吗？<br>
+等到明天春天<br>
+风向变了，是否又会从东边传来<br>
+爸爸妈妈的味道？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[母亲的忧伤]]></title>
         <id>https://feiworld.github.io/post/mu-qin-de-you-shang/</id>
@@ -314,25 +356,6 @@
         </link>
         <updated>2021-01-11T14:39:04.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://feiworld.github.io/post-images/1610375961896.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新中心北]]></title>
-        <id>https://feiworld.github.io/post/xin-zhong-xin-bei/</id>
-        <link href="https://feiworld.github.io/post/xin-zhong-xin-bei/">
-        </link>
-        <updated>2021-01-11T14:00:29.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://feiworld.github.io/post-images/1610373726151.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610373731500.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610373736619.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610373740858.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610373744032.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610373748023.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610373751427.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610373755593.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1610373758952.jpg" alt="" loading="lazy"></p>
-<p>在梅尔市北部，正在建设一个住宅区，它定义了&quot;新中心北&quot;，并设计为一个城市村庄。青年和文化中心&quot;阿尔特·斯塔尔韦克&quot;是这一活动的前奏，在繁忙的布尔什大街前保护自己。公共运动区和多功能室通过前庭与城市通信，其后面的住宅楼定义了一个半公共空间，可供居民和中心用户使用。</p>
-<p>整个地区由一排排和点楼组成，其中出租和公寓混合在一起，由于地下停车场有180个停车位，保持无车。用层压胶合板做起的板面突出了有意识的 lyre 特征，由木屋和阳台结构。每栋建筑被分成岛屿，分配给农场花园。新种植的树木结合了私人和开放的绿地和小广场，确保高品质的生活，甚至在外面。</p>
 ]]></content>
     </entry>
 </feed>
