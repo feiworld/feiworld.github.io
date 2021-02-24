@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feiworld.github.io</id>
     <title>Fei&apos;s Landscape Studio 渐筑 </title>
-    <updated>2021-02-24T15:27:27.552Z</updated>
+    <updated>2021-02-24T15:30:48.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feiworld.github.io"/>
     <link rel="self" href="https://feiworld.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://feiworld.github.io/images/avatar.png</logo>
     <icon>https://feiworld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Fei&apos;s Landscape Studio 渐筑 </rights>
+    <entry>
+        <title type="html"><![CDATA[传统架构下的共享单车停车区域初探]]></title>
+        <id>https://feiworld.github.io/post/chuan-tong-jia-gou-xia-de-gong-xiang-dan-che-ting-che-qu-yu-chu-tan/</id>
+        <link href="https://feiworld.github.io/post/chuan-tong-jia-gou-xia-de-gong-xiang-dan-che-ting-che-qu-yu-chu-tan/">
+        </link>
+        <updated>2021-02-24T15:28:52.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://feiworld.github.io/post-images/1614180547361.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1614180556289.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1614180575877.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1614180582079.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[断章-其一]]></title>
         <id>https://feiworld.github.io/post/duan-zhang-qi-yi/</id>
@@ -347,15 +359,6 @@
 <img src="https://feiworld.github.io/post-images/1610789896574.jpg" alt="" loading="lazy"><br>
 <img src="https://feiworld.github.io/post-images/1610789901982.jpg" alt="" loading="lazy"><br>
 <img src="https://feiworld.github.io/post-images/1610789911524.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[000]]></title>
-        <id>https://feiworld.github.io/post/000/</id>
-        <link href="https://feiworld.github.io/post/000/">
-        </link>
-        <updated>2021-01-11T14:39:04.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://feiworld.github.io/post-images/1610375961896.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
