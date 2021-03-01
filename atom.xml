@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feiworld.github.io</id>
     <title>Fei&apos;s Landscape Studio 渐筑 </title>
-    <updated>2021-02-27T13:53:19.706Z</updated>
+    <updated>2021-03-01T12:11:07.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feiworld.github.io"/>
     <link rel="self" href="https://feiworld.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://feiworld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Fei&apos;s Landscape Studio 渐筑 </rights>
     <entry>
-        <title type="html"><![CDATA[断章]]></title>
+        <title type="html"><![CDATA[灯红酒绿之间]]></title>
         <id>https://feiworld.github.io/post/duan-zhang/</id>
         <link href="https://feiworld.github.io/post/duan-zhang/">
         </link>
@@ -185,66 +185,13 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【    】]]></title>
-        <id>https://feiworld.github.io/post/</id>
-        <link href="https://feiworld.github.io/post/">
-        </link>
-        <updated>2021-02-27T07:25:34.000Z</updated>
-        <content type="html"><![CDATA[<p>加载成功<br>
-秘密花园开发中.......<br>
-稍等......<br>
-︿(￣︶￣)︿</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[断章-其一]]></title>
-        <id>https://feiworld.github.io/post/duan-zhang-qi-yi/</id>
-        <link href="https://feiworld.github.io/post/duan-zhang-qi-yi/">
-        </link>
-        <updated>2021-02-26T15:26:36.000Z</updated>
-        <content type="html"><![CDATA[<p>他总是在那坐着，<br>
-泥砖墙外，酸枣树旁。<br>
-背后忽明忽灭的灯火<br>
-也习惯了他那湿漉漉的观望。<br>
-究竟是什么锁住了他清澈的眼睛？<br>
-起风了，狗的一声喷嚏<br>
-提醒他该回屋添衣了。<br>
-笔直的阳光投射出他的影子，<br>
-虚妄，孤独，却在期待着，<br>
-期待着什么。<br>
-不是漂亮的衣服，不是稀奇的玩具。</p>
-<p>山下的河一天天地流，<br>
-一去不复返<br>
-就像曾经在这打枣的某个身影。<br>
-鸟儿从远处飞来，<br>
-一路彷徨，一声呢喃，<br>
-他望出了鸟儿眼眸中闪烁的<br>
-不可描述的忧伤。</p>
-<p>炙热的阳光下<br>
-他在田野里摔倒然后爬起来，<br>
-稚嫩的双手剥落了曾经的红润，<br>
-刻上了大地的纹理。<br>
-黝黑的面孔<br>
-好似从泥潭里钻出来。<br>
-天空的泪水变成<br>
-深情的河流，依旧在<br>
-那潮湿发霉的被褥里做着温暖的梦。</p>
-<p>他想——<br>
-秋天的风，能让漫山红遍，<br>
-我可以将它买下，<br>
-寄往河流的那头吗？<br>
-等到明天春天<br>
-风向变了，是否又会从东边传来<br>
-爸爸妈妈的味道？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飞鸟]]></title>
+        <title type="html"><![CDATA[鸟在飞]]></title>
         <id>https://feiworld.github.io/post/fei-niao/</id>
         <link href="https://feiworld.github.io/post/fei-niao/">
         </link>
         <updated>2021-02-26T15:09:52.000Z</updated>
-        <content type="html"><![CDATA[<p>飞鸟的理想国一定在天上，那些天空的游荡者，已不仅仅是天幕的点缀。<br>
+        <content type="html"><![CDATA[<p>飞鸟</p>
+<p>飞鸟的理想国一定在天上，那些天空的游荡者，已不仅仅是天幕的点缀。<br>
 　　<br>
 风雨飘摇，必有什么东西被它击碎。<br>
 　　<br>
@@ -258,144 +205,259 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[母亲的忧伤]]></title>
-        <id>https://feiworld.github.io/post/mu-qin-de-you-shang/</id>
-        <link href="https://feiworld.github.io/post/mu-qin-de-you-shang/">
+        <title type="html"><![CDATA[蝉在叫]]></title>
+        <id>https://feiworld.github.io/post/kong-chan/</id>
+        <link href="https://feiworld.github.io/post/kong-chan/">
         </link>
-        <updated>2021-02-26T14:14:00.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>母亲的忧伤</strong><br>
-我是你未曾落下的红泪，<br>
-在你童话里演绎快乐小王子，<br>
-在烟火般闪烁的星空苏醒，<br>
-触碰到窗外冰冷的荆棘。<br>
-　<br>
-你宛如一场早春夜雨，<br>
-悄然滋润的何止是我的生命，<br>
-就连我盼望的每一片天空，<br>
-都挤满你目光的温柔。<br>
+        <updated>2021-02-20T14:09:25.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>ONE空蝉</strong></p>
+<p>你要走了吗？<br>
+我的脚在黄昏里颤抖，<br>
+沉默似乎要持续到永远。<br>
+夏日蝉鸣，<br>
+虽然被夜埋葬，<br>
+虽然渐渐遗忘，<br>
+虽然无限悲伤，<br>
+但我依然感觉到，<br>
+盛开在幽谷里的颜色<br>
+等待着你的回答。<br>
 　　<br>
-时光飘零，碎步摇曳。<br>
-雨滴伴奏的古老音乐中<br>
-我听到你痛苦的呻吟埋入鸦羽，<br>
-原来那是你写给我苍白的稿笺。<br>
+一定要走吗？<br>
+你的影子在灯光下闪着忧愁，<br>
+似乎能传达到远方。<br>
+萤火朦胧，<br>
+虽然如同悲伤，<br>
+虽然无法歌唱，<br>
+虽然接近黎明，<br>
+但相信自己的光。<br>
+大树诉说着你的故事，<br>
+有你欢乐的日子。</p>
+<p><strong>TWO童话回忆</strong><br>
+记得上次离开的场景，<br>
+墙角孤独的玫瑰淌着清泪，<br>
+凝聚生命的血红谁在寻找？<br>
+她饱饮一夜春雨，<br>
+却故作醉意阑珊。<br>
+面对幻象欲言又止，<br>
+将悲伤埋葬期待长出奇迹。<br>
+该往哪里走呢？镜中世界也会破碎。<br>
+该往哪里走呢？花间长满美丽的刺。<br>
+该往哪里走呢？<br>
 　　<br>
-你说你愿意捡拾夏日萤火在梦中寻找我，<br>
-而我化作飞蛾窥视远处你的背影。<br>
+记得东张西望的迷惘，<br>
+水中憔悴的面容映出痛苦，<br>
+染上阴霾的天空谁在仰望？<br>
+他拭去苦涩泪水，却想心甘情愿<br>
+抓着裙摆亲吻低语<br>
+把微笑表情戴上不再改变。<br>
+还是回去吧，荡起快乐的秋千。<br>
+还是回去吧，回到童话剧前。<br>
+还是回去吧！</p>
+<p><strong>THREE两年前的那个姑娘</strong><br>
+两年前的那个姑娘，<br>
+你不要，不要再跑了，<br>
+天空已染上几许朱红。<br>
+恋爱时约定的礼物，<br>
+你不要，不要收不到，<br>
+教堂里要把誓言宣读。<br>
+阳光下的思念，<br>
+你不要，不要凋谢，<br>
+暴风雨里把心志锤炼。<br>
+你喜欢的那个小伙子，<br>
+你不要，不要告别，<br>
+爱情就要抽出几段新枝。<br>
+不要不相信你所相信的美好，<br>
+来把这份心情传达。<br>
 　　<br>
-你的背影那么苍茫，<br>
-是黑暗中反复迷路的旅客目光。<br>
-只有夜醒着，和你一同仰望染上阴霾的天空。<br>
-　　<br>
-雪花凋落，野草漫过夕阳。<br>
-百年后老坟旁憔悴的玫瑰在为谁哭泣？<br>
-年轻时飞起的白鸽是否还能传达忧伤。</p>
+春天江南与你见面，<br>
+你不要，不要老了遍地垂柳，<br>
+远处杏花村在召唤。<br>
+夏天陪你去采莲，<br>
+你不要，不要浪费漂亮的短裙，<br>
+池塘里裙摆掀起一番波澜。<br>
+下山的路上，<br>
+你不要，不要错过他的回眸，<br>
+新酿的酒在你心中。<br>
+灯火辉煌处，<br>
+你不要，不要跟在他的背后，<br>
+一壶烟火能照亮你们心间。<br>
+不要不点燃那萤火之光，<br>
+那是你多年的愿望。<br>
+还记得<br>
+这是你<br>
+多年的愿望</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[老街印象]]></title>
-        <id>https://feiworld.github.io/post/lao-jie-yin-xiang/</id>
-        <link href="https://feiworld.github.io/post/lao-jie-yin-xiang/">
+        <title type="html"><![CDATA[偷偷藏起的影子]]></title>
+        <id>https://feiworld.github.io/post/bie/</id>
+        <link href="https://feiworld.github.io/post/bie/">
         </link>
-        <updated>2021-02-25T14:38:48.000Z</updated>
-        <content type="html"><![CDATA[<p>我踏入清冷的故乡老街</p>
-<p>看见昨日的沧桑印在脚下</p>
-<p>我拾起一块青石</p>
-<p>体味斑驳记载的世纪的记忆</p>
-<p>染黑翻墨墙角边沿</p>
-<p>是谁在那</p>
-<p>留下千古诗篇</p>
-<p>雨滴打落屋檐</p>
-<p>由谁见证</p>
-<p>这日月的蹉跎变迁</p>
-<p>阳光穿透檐角门眉</p>
-<p>谁来把这镂空雕花般精美的故事收藏</p>
-<p>悠悠江水东入海</p>
-<p>徜徉青龙天地间</p>
-<p>青青板石桥上嵌</p>
-<p>风雨不动数百年</p>
-<p>我坐在这阴冷的桥头</p>
-<p>坐在这劳苦大众的肩头</p>
-<p>数着陈列的岩石</p>
-<p>多多少少</p>
-<p>又沉载多少艰难辛苦</p>
-<p>望着高楼之下零星一点青乌</p>
-<p>民居木制的门牖仍泛着古香</p>
-<p>老人犹抱着一颗铜壶</p>
-<p>温暖着整条街的沧桑</p>
+        <updated>2021-02-19T14:27:39.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>暗恋</strong><br>
+我的影子暗恋着她，<br>
+知道漫漫黑夜连着光明，<br>
+无力的手触不到她的温暖。<br>
+他在朽木缝间埋下蒲公英的种子，<br>
+嘲笑黑暗中裹足不前的我<br>
+就是个懦夫。<br>
+他在踉跄中看到闪电撕破思念，<br>
+嘲笑镜子中悲伤的自己<br>
+那么冰冷。</p>
+<p><strong>告白</strong><br>
+记忆在一个模糊的夜晚向我告白<br>
+她准备着充分的理由<br>
+她是胆怯的，<br>
+她不敢在喧闹中露面。<br>
+当我几近沉睡的时候，<br>
+她活蹦乱跳地来到我面前。<br>
+她给我讲述陈旧的故事，<br>
+语调中带着雨的印记。<br>
+她还模仿撒娇女孩的声音，<br>
+而我只看到了苍白的颜色。<br>
+……<br>
+可能我会喜欢上她。<br>
+　　<br>
+　　<br>
+　　<br>
+<strong>牵手</strong><br>
+来一首恋爱进行曲，<br>
+我与你牵手。<br>
+你的倔强，你的孤独，你的沉默<br>
+我听得到。<br>
+我在墙角流着水绿色的眼泪，<br>
+饱饮一场悲苦的秋雨，<br>
+故作醉意阑珊与你牵手。<br>
+就算我的绯红褪去，<br>
+也愿零落成泥护你左右。<br>
+　　<br>
+　　<br>
+<strong>孤独</strong><br>
+凋零的雨，<br>
+伤心的孤灯，<br>
+台阶上新生的青痕，<br>
+在空白的玻璃屏上做着空白的梦。<br>
+　　<br>
+凌晨斑驳的光，<br>
+爬上淋湿的裤腿，<br>
+就像记忆的万紫千红<br>
+变成咖啡厅里慢歌的苍白。<br>
+　　<br>
+　　<br>
+　　<br>
+<strong>分别</strong><br>
+消失的钟声撞开黎明的死寂，<br>
+风踩着露珠飞向远方。<br>
+多情的雨天，玻璃的天际，<br>
+总有闺妇窗牖前凝望，<br>
+凝望着记忆地平线那边的梦。<br>
+　　<br>
+风在雨的怀中泪流，<br>
+雨在夜里惆怅，<br>
+一切一切，<br>
+绿窗前总有人凝望。</p>
+<p>2016.5</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[霓虹]]></title>
-        <id>https://feiworld.github.io/post/ni-hong/</id>
-        <link href="https://feiworld.github.io/post/ni-hong/">
+        <title type="html"><![CDATA[逃不过光与色的交织]]></title>
+        <id>https://feiworld.github.io/post/guang-yu-se-cai/</id>
+        <link href="https://feiworld.github.io/post/guang-yu-se-cai/">
         </link>
-        <updated>2021-02-25T14:35:45.000Z</updated>
-        <content type="html"><![CDATA[<p>在这巨大的宫殿下，</p>
-<p>是你，给这个城市披上了华丽的晚礼服。</p>
-<p>在你的美妙舞姿前，他们为你拍手为你欢呼。</p>
-<p>而我，倚在<a href="https://feiworld.github.io/post/wo-de-zi-shu">角落</a>像是在欣赏一场闹剧。</p>
-<p>在你眨眼的瞬间，整个世界在为你沸腾。</p>
-<p>而我也不甘于寂寞与孤独。</p>
-<p>眼前的这个社会，这个校园，充满了暧昧与幸福的眼神。我曾经沉醉在欣赏他们的怪圈之中，向往，憧憬。</p>
-<p>大街小巷之间，手牵手，你为我，我为你。公园里，长椅上，女孩在喂男孩吃着她的爱心便当。我想即使男孩工作再累，生活再烦恼，在女孩的情意渗入嘴中时，一切都烟消云散。</p>
-<p>拐角处我故作停留，偷窥着他们的甜美爱情。他们似乎陷入的很深，以至于注意不到过往老人奇怪的目光，以及我偷窥的心理。</p>
-<p>走过了公园的林荫道，走尽了校园，新奇又不安。</p>
-<p>从花园到操场，鸟语花香。昏暗体育仓库中深情的拥吻，楼道旁焦灼与不安的等待，暖阳下对视的目光，食堂依偎在一起的身躯......一切的一切，在我脑海中流转，流转。</p>
-<p>我对这一切充满了向往与好奇，所以我试着想去喜欢一个人，一个女孩。</p>
-<p>高中的生活有些陌生，对朋友的诉说不得洒脱，我画地为牢，自己作困兽之斗。</p>
-<p>我也迫切地，想要一个解脱，一个救赎。</p>
-<p>我也想像他们一样，痴痴的想法在涌动。</p>
-<p>2014.10</p>
+        <updated>2021-02-18T13:52:56.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://feiworld.github.io/post-images/1614261195017.jpg" alt="" loading="lazy"><br>
+1916 年，蒙德里安与荷兰哲学家苏恩梅克尔相识并一见如故。这个时期蒙德里安的绘画作品深受苏恩梅克尔的新柏拉图体系的哲学思想的启发，并将其所尊崇的“实证神秘主义”和“造型数学”作为自己抽象画作的理论支撑。此时，蒙德里安的画作不再只是为了表现自然的某种生命力，而是试图竖直的线条有序地排列，色彩的分布也相当规整得当，给人以静态严肃之感。但整体来看，整幅画上下比例并不均衡，色彩的分布也极具跳跃之感，形状和色彩的对立使得整幅画面充满了动态之势，局部画面的刻意失衡让整体画面具有了独特的“平衡”。画面中右边的黄色矩形仿佛被部分黑色区域掩盖，而顶部的红色方块仿佛要被隔离在画布之外，蓝色小方块也被安置在不显眼的左上角。蒙德里安利用垂线与水平线的相互作用力将各个矩形的大小确定下来，使得它们在位置、面积、方向上都呈现一种确定的状态。这幅画名为《红、蓝、黄、黑构图》，但实际上占据篇幅最大的是白色。同样，在室内空间中，尤其是在较大的办公空间内，也需要注重平衡的构图，以及色彩的平衡。室内的墙壁也多为白色，管道交织就好似《红黄蓝构图》中的黑色分割线，那些一个个收纳柜书柜构成了立面上的“红黄蓝”，方形的桌椅以及铺装也好似平面上的方格子画。<br>
+在看似不规则的构图中，它们似乎占据了自己本该占据的部分，不多不少、整齐划一地排列在画面中，让观者可以体会到那种局部失衡而整体均衡的感觉。这种感觉也正是设计工作者所需的，也是本设计方案希望能够传递给大家的。这幅画传达出蒙德里安对内在真实的追求，自然世界中经验事物的变幻不居必然会导致许多不平衡，但不管怎么变，整个的自然界本身的内在结构是绝对均衡的，那些看似失衡的自然事物蕴含着的是自然最纯粹、最真实、最普遍的真实。设计也是这样的，合正锦园创意工作室的创意理念也是如此。正如蒙德里安的画，各领域设计工作者如画中互相拼贴碰撞的“三原色”，隐喻工作室“合”的理念，设计规范以及设计的“均衡”就像画中一个个方块，即是“正”。创意工作者们的工作沟通也正是这样一种动态平衡。<br>
+蒙德里安的“格子画”系列以纯粹的造型取胜，对整体画面动态平衡的追求是他追求自然内在真实的理念。不同年龄、性别、教育程度与文化背景的欣赏者，不同时间不同地点普遍都能够从观照蒙德里安经典作品中获得不同的视觉和精神感受，以激发创意的萌生。而这种美感并非产生于偶然，而是经过艺术家的审慎安排产生的，室内设计也是如此。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[空间重组]]></title>
-        <id>https://feiworld.github.io/post/kong-jian-chong-zu/</id>
-        <link href="https://feiworld.github.io/post/kong-jian-chong-zu/">
+        <title type="html"><![CDATA[工业记忆-重新发电]]></title>
+        <id>https://feiworld.github.io/post/qi-shu-yan-dian-han-leng-que-ta-qu-yu-jing-guan-gai-zao/</id>
+        <link href="https://feiworld.github.io/post/qi-shu-yan-dian-han-leng-que-ta-qu-yu-jing-guan-gai-zao/">
         </link>
-        <updated>2021-02-24T15:32:44.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://feiworld.github.io/post-images/1614180784236.jpg" alt="" loading="lazy"></figure>
+        <updated>2021-02-09T13:57:32.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://feiworld.github.io/post-images/1614261473743.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1614261484919.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1614261494182.jpg" alt="" loading="lazy"><br>
+<img src="https://feiworld.github.io/post-images/1614261505776.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传统架构下的共享单车停车区域初探]]></title>
-        <id>https://feiworld.github.io/post/chuan-tong-jia-gou-xia-de-gong-xiang-dan-che-ting-che-qu-yu-chu-tan/</id>
-        <link href="https://feiworld.github.io/post/chuan-tong-jia-gou-xia-de-gong-xiang-dan-che-ting-che-qu-yu-chu-tan/">
+        <title type="html"><![CDATA[只是一次天马行空]]></title>
+        <id>https://feiworld.github.io/post/luan/</id>
+        <link href="https://feiworld.github.io/post/luan/">
         </link>
-        <updated>2021-02-24T15:28:52.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://feiworld.github.io/post-images/1614180547361.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1614180556289.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1614180575877.jpg" alt="" loading="lazy"><br>
-<img src="https://feiworld.github.io/post-images/1614180582079.jpg" alt="" loading="lazy"></p>
+        <updated>2021-02-04T14:24:11.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://feiworld.github.io/post-images/1600612635007.jpg" alt="" loading="lazy"><br>
+《冰》<br>
+<img src="https://feiworld.github.io/post-images/1600612186955.jpg" alt="" loading="lazy"><br>
+《鸟》<br>
+<img src="https://feiworld.github.io/post-images/1600612654290.jpg" alt="" loading="lazy"><br>
+《湖》<br>
+<img src="https://feiworld.github.io/post-images/1600612197012.jpg" alt="" loading="lazy"><br>
+《山》<br>
+<img src="https://feiworld.github.io/post-images/1600612209533.jpg" alt="" loading="lazy"><br>
+《猫》</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黎明]]></title>
-        <id>https://feiworld.github.io/post/li-ming/</id>
-        <link href="https://feiworld.github.io/post/li-ming/">
+        <title type="html"><![CDATA[长大]]></title>
+        <id>https://feiworld.github.io/post/shi/</id>
+        <link href="https://feiworld.github.io/post/shi/">
         </link>
-        <updated>2021-02-24T14:34:09.000Z</updated>
-        <content type="html"><![CDATA[<p>寂静的夜，清冷的雨，<br>
-无情的风吹奏起深秋的悲歌。<br>
-穿透窗户的冰凉，冻结了我的心。<br>
-　　<br>
-死者的寂寞，生者的沉默，<br>
-不可视的境界线，<br>
-在漆黑之中划出一道血痕。<br>
-　　<br>
-黑暗啊，你不要留下我孤独的一个人。<br>
-黎明啊，你晚一点到来，我还不知道该如何面对你。<br>
-　　<br>
-明天，将是一个什么样的世界。<br>
-太阳的光芒藏着悲伤，<br>
-常青的雪松弯下他那挺直的身子，<br>
-水晶的眼眸中都是欺骗的镜像。<br>
-　　<br>
-血丝蔓延了整个天空。<br>
-　　<br>
-2014.11.2凌晨三点于常州</p>
-<p>后记：这里血丝蔓延了我的整个眼球。珍爱生命，无止无休。<br>
-高中的时候有种特异功能，看完一部动漫或一个喜欢的情节，立马能涌出一首诗，甚至几首，这首是我当时看《中二病也要谈恋爱》，得知不可视境界线是什么之后有感而发。——2021.2.24</p>
+        <updated>2021-02-02T15:47:22.000Z</updated>
+        <content type="html"><![CDATA[<p>雨后的花并不是一尘不染，<br>
+雨后的春天又开始等待夏天的激情。<br>
+壳里的春光开始泛滥，我开始口无遮拦。<br>
+蝴蝶不愿做苦行僧，要做妩媚<br>
+诱人。诗人的自命拷住了他自己的诗行。<br>
+诱人的不是香槟<br>
+是毒钩。反光玻璃中自导自演是深沉的孤独。<br>
+夜，从白变黑。云，由蓝发白。<br>
+爱，曾经用全部的生命等待<br>
+山林从喧闹到寂静。<br>
+四眼井照不见第五人，也照不见第二人。想象未来的钟楼钟声<br>
+浸在黄昏里，从石缝中流出一叶扁舟。我渴望身边有一个人。<br>
+就算给我带来的是海市蜃楼。夜里冰冷的雨也不妄温暖了一回。<br>
+长大成人，<br>
+就是在无人的楼角丢弃那些褶皱的糖纸。<br>
+重新，认真开始。你在欺骗<br>
+曾经平静对你的那一塘池水。<br>
+时间，像个小孩，害怕踩到地砖上的线，跳跃着前进。</p>
+<p>2016年春</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不过是相簿的泛白]]></title>
+        <id>https://feiworld.github.io/post/bai-se-xiang-bo/</id>
+        <link href="https://feiworld.github.io/post/bai-se-xiang-bo/">
+        </link>
+        <updated>2021-02-02T14:26:56.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://feiworld.github.io/post-images/1614090458746.jpg" alt="" loading="lazy"><br>
+<strong>《白色相簿》</strong><br>
+行业中，在景观的表现上从来不会想到用雪景来表达一个场景，更不会用来表达概念，而就是这样被领导和甲方嗤之以鼻的雪景，我甚是喜欢。<br>
+令我费解的是，其实大家都喜欢雪吧，在下雪天尤其喜欢拍照留念。<br>
+在此基础上，我觉得雪景能表达出一种场景感，一种故事感，甚至是一种电影感。<br>
+想象一个人在树林雪地中走着，两个人？三个人？会是什么样的故事。<br>
+由于雪的缘故，即使没有灯光，雪的反射让场地的夜晚更加具有安全感。</p>
+<p>该概念，我是想着营造一个由1.5m漫步道构成的一个“回”字形的矩阵空间，树阵是它的大基调，凸起的地形让这个回型空间充满神秘感，这边的我看不到对面的她，但是我走着走着，画面就会出现，故事就会产生，这可能是邂逅的故事，也可能是离别的故事。不过，我更希望是个邂逅的故事，所以它是一个“回”字，所以它是1.5m的步行道。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抽象的三角]]></title>
+        <id>https://feiworld.github.io/post/san-jiao-xing-de-po/</id>
+        <link href="https://feiworld.github.io/post/san-jiao-xing-de-po/">
+        </link>
+        <updated>2021-02-02T13:56:12.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://feiworld.github.io/post-images/1614174989465.jpg" alt="" loading="lazy"></figure>
+<p>三角形的坡<br>
+有个国外设计事务所叫做TRIA，很多景观项目中都包含着三角元素，这让我觉得那群设计师思想很大胆。<br>
+虽然三角常被说成是最稳定的一种结构形式，但是在景观中却常常规避掉三角，因为施工难度会上升，简而言之，锐角不易施工，甚至带有危险性。<br>
+然而，对于三角的元素在景观中运用会不美观这一观点，我不敢苟同。在建筑中结构中追求稳定会常常遇见三角，而景观中却常常见不到。就景观的硬质铺装而言，三角的出现可能确实会打破原有形式的规整，但是在绿地的设计中就不同了，绿地的“软”能中和掉三角的“锐”。<br>
+我想通过一幅简单的插画来表现它的张力，它的力量感，以及它的简洁；原本我是觉得并不用种树的，简简单单的几个坡就已经足够，这也是我所设想的极简。但是极简并不意味着造价低，反而因为要保持较为规整的草坡，后期的维护成本会上升。<br>
+功能上来说，三角形草坡群能隔绝噪音屏蔽视线，从而在场地内部营造独一无二的艺术空间，加之以框景的手法，可以尽情去体验它独一无二的冲击。或许，你还可以试着想象着，你爬上草坡，像孩子一样嬉笑打闹；也可以与恋人携手，静坐在草坡端。<br>
+三角形体没有具象的语言，或者说，我觉得它比其他形体来的更抽象，它的线条与它所具备的色彩属性相融合，既肃穆又不失活力。</p>
 ]]></content>
     </entry>
 </feed>
