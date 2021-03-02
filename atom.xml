@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feiworld.github.io</id>
     <title>Fei&apos;s Landscape Studio 渐筑 </title>
-    <updated>2021-03-02T16:45:50.155Z</updated>
+    <updated>2021-03-02T16:52:11.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feiworld.github.io"/>
     <link rel="self" href="https://feiworld.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://feiworld.github.io/images/avatar.png</logo>
     <icon>https://feiworld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Fei&apos;s Landscape Studio 渐筑 </rights>
+    <entry>
+        <title type="html"><![CDATA[[   ]]]></title>
+        <id>https://feiworld.github.io/post/</id>
+        <link href="https://feiworld.github.io/post/">
+        </link>
+        <updated>2021-03-02T16:50:51.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://feiworld.github.io/post/wo-de-zi-shu">o(*≧▽≦)ツ┏━┓</a><br>
+<img src="https://feiworld.github.io/post-images/1614703913413.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[灯红酒绿之间]]></title>
         <id>https://feiworld.github.io/post/duan-zhang/</id>
@@ -442,22 +452,6 @@
 想象一个人在树林雪地中走着，两个人？三个人？会是什么样的故事。<br>
 由于雪的缘故，即使没有灯光，雪的反射让场地的夜晚更加具有安全感。</p>
 <p>该概念，我是想着营造一个由1.5m漫步道构成的一个“回”字形的矩阵空间，树阵是它的大基调，凸起的地形让这个回型空间充满神秘感，这边的我看不到对面的她，但是我走着走着，画面就会出现，故事就会产生，这可能是邂逅的故事，也可能是离别的故事。不过，我更希望是个邂逅的故事，所以它是一个“回”字，所以它是1.5m的步行道。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抽象的三角]]></title>
-        <id>https://feiworld.github.io/post/san-jiao-xing-de-po/</id>
-        <link href="https://feiworld.github.io/post/san-jiao-xing-de-po/">
-        </link>
-        <updated>2021-02-02T13:56:12.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://feiworld.github.io/post-images/1614174989465.jpg" alt="" loading="lazy"></figure>
-<p>三角形的坡<br>
-有个国外设计事务所叫做TRIA，很多景观项目中都包含着三角元素，这让我觉得那群设计师思想很大胆。<br>
-虽然三角常被说成是最稳定的一种结构形式，但是在景观中却常常规避掉三角，因为施工难度会上升，简而言之，锐角不易施工，甚至带有危险性。<br>
-然而，对于三角的元素在景观中运用会不美观这一观点，我不敢苟同。在建筑中结构中追求稳定会常常遇见三角，而景观中却常常见不到。就景观的硬质铺装而言，三角的出现可能确实会打破原有形式的规整，但是在绿地的设计中就不同了，绿地的“软”能中和掉三角的“锐”。<br>
-我想通过一幅简单的插画来表现它的张力，它的力量感，以及它的简洁；原本我是觉得并不用种树的，简简单单的几个坡就已经足够，这也是我所设想的极简。但是极简并不意味着造价低，反而因为要保持较为规整的草坡，后期的维护成本会上升。<br>
-功能上来说，三角形草坡群能隔绝噪音屏蔽视线，从而在场地内部营造独一无二的艺术空间，加之以框景的手法，可以尽情去体验它独一无二的冲击。或许，你还可以试着想象着，你爬上草坡，像孩子一样嬉笑打闹；也可以与恋人携手，静坐在草坡端。<br>
-三角形体没有具象的语言，或者说，我觉得它比其他形体来的更抽象，它的线条与它所具备的色彩属性相融合，既肃穆又不失活力。</p>
 ]]></content>
     </entry>
 </feed>
