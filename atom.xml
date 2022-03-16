@@ -1,31 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feiworld.github.io</id>
-    <title>Fei&apos;s Landscape Studio 渐筑 </title>
-    <updated>2022-03-16T12:38:23.783Z</updated>
+    <title>Flying&apos;s Warehouse</title>
+    <updated>2022-03-16T15:32:08.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feiworld.github.io"/>
     <link rel="self" href="https://feiworld.github.io/atom.xml"/>
-    <subtitle>渐行而知筑</subtitle>
+    <subtitle>秋阴不散霜飞晚，留得残荷听雨声</subtitle>
     <logo>https://feiworld.github.io/images/avatar.png</logo>
     <icon>https://feiworld.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Fei&apos;s Landscape Studio 渐筑 </rights>
+    <rights>All rights reserved 2022, Flying&apos;s Warehouse</rights>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://feiworld.github.io/post/11/</id>
-        <link href="https://feiworld.github.io/post/11/">
+        <title type="html"><![CDATA[每天晚上听笔的述说]]></title>
+        <id>https://feiworld.github.io/post/mei-tian-wan-shang-ting-bi-de-shu-shuo/</id>
+        <link href="https://feiworld.github.io/post/mei-tian-wan-shang-ting-bi-de-shu-shuo/">
         </link>
-        <updated>2022-03-15T17:26:40.000Z</updated>
-        <content type="html"><![CDATA[<p>00</p>
+        <updated>2022-02-24T15:30:59.000Z</updated>
+        <content type="html"><![CDATA[<p>我每天晚上都在听笔的述说<br>
+他说，他能写出金戈铁马，也能画出纸上情长<br>
+只是，他懒。<br>
+到今天也没有画出一横一竖。</p>
+<p>也许十年后，孩童会拿他来鬼画符。<br>
+那时，还会嫌弃他的断断续续。<br>
+他却说，我曾经也抛文洒墨，笔锋犀利。<br>
+我笑而不语，笑你只是个烂笔头。</p>
+<p>2022.2.24</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[000]]></title>
-        <id>https://feiworld.github.io/post/000/</id>
-        <link href="https://feiworld.github.io/post/000/">
+        <title type="html"><![CDATA[等]]></title>
+        <id>https://feiworld.github.io/post/等/</id>
+        <link href="https://feiworld.github.io/post/等/">
         </link>
-        <updated>2022-03-15T16:19:54.000Z</updated>
-        <content type="html"><![CDATA[<p>000123</p>
+        <updated>2022-02-17T16:19:54.000Z</updated>
+        <content type="html"><![CDATA[<p>等出租<br>
+等了二十分钟，无果。<br>
+每个人像是不约而同的，逃离了我，<br>
+去迎接他们新的客人。踏上更远的征途。</p>
+<p>2.18</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三天可见]]></title>
+        <id>https://feiworld.github.io/post/11/</id>
+        <link href="https://feiworld.github.io/post/11/">
+        </link>
+        <updated>2022-02-16T17:26:40.000Z</updated>
+        <content type="html"><![CDATA[<p>我的朋友很少，却也只是想看看你的动态。<br>
+那日湖畔依偎的香气，我依然记得。<br>
+只是我找寻万千，再也找不到那一片相似的香气。<br>
+那香气是初闻，但我却是一下子爱上了。不知何故。<br>
+你问我，当时为什么不去见你？<br>
+我不知道该怎么回答。<br>
+不过，如果再遇，我愿为草寇……<br>
+飘落的树叶，像是天上的仙女随处洒落一般。<br>
+飘飘摇摇，落入湖中，荡起一丝丝涟漪，仿佛在向我诉说它的故事。<br>
+坐凳上的我们，无言，却时不时相对着。<br>
+林间的青草虫鸣，可知我的心思。<br>
+你，可知我的心思。</p>
+<p>犯困，也吃着手上的食。<br>
+只是无聊，又会打开你的朋友圈。<br>
+三天可见。</p>
+<p>2022.2.17</p>
 ]]></content>
     </entry>
     <entry>
@@ -417,33 +453,6 @@
 《山》<br>
 <img src="https://feiworld.github.io/post-images/1600612209533.jpg" alt="" loading="lazy"><br>
 《猫》</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长大]]></title>
-        <id>https://feiworld.github.io/post/shi/</id>
-        <link href="https://feiworld.github.io/post/shi/">
-        </link>
-        <updated>2021-02-02T15:47:22.000Z</updated>
-        <content type="html"><![CDATA[<p>雨后的花并不是一尘不染，<br>
-雨后的春天又开始等待夏天的激情。<br>
-壳里的春光开始泛滥，我开始口无遮拦。<br>
-蝴蝶不愿做苦行僧，要做妩媚<br>
-诱人。诗人的自命拷住了他自己的诗行。<br>
-诱人的不是香槟<br>
-是毒钩。反光玻璃中自导自演是深沉的孤独。<br>
-夜，从白变黑。云，由蓝发白。<br>
-爱，曾经用全部的生命等待<br>
-山林从喧闹到寂静。<br>
-四眼井照不见第五人，也照不见第二人。想象未来的钟楼钟声<br>
-浸在黄昏里，从石缝中流出一叶扁舟。我渴望身边有一个人。<br>
-就算给我带来的是海市蜃楼。夜里冰冷的雨也不妄温暖了一回。<br>
-长大成人，<br>
-就是在无人的楼角丢弃那些褶皱的糖纸。<br>
-重新，认真开始。你在欺骗<br>
-曾经平静对你的那一塘池水。<br>
-时间，像个小孩，害怕踩到地砖上的线，跳跃着前进。</p>
-<p>2016年春</p>
 ]]></content>
     </entry>
 </feed>
